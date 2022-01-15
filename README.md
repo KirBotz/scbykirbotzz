@@ -49,6 +49,5 @@
 
 ## `SETTING`
 
-- Owner Number [`Here`](https://github.com/KirBotz/scbykirbotzz/blob/master/V1/session/setting.json#L2)
-- Owner Name [`Here`](https://github.com/KirBotz/scbykirbotzz/blob/master/V1/session/setting.json#L1)
-- Bot Name [`Here`](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L14)
+- Owner Number [`Here`](https://github.com/KirBotz/scbykirbotzz/blob/master/V1/session/setting.json#L3)
+- Owner Name [`Here`](https://github.com/KirBotz/scbykirbotzz/blob/master/V1/session/setting.json#L2)
