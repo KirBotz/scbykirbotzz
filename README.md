@@ -51,3 +51,11 @@
 
 - Owner Number [`Here`](https://github.com/KirBotz/scbykirbotzz/blob/master/V1/session/setting.json#L3)
 - Owner Name [`Here`](https://github.com/KirBotz/scbykirbotzz/blob/master/V1/session/setting.json#L2)
+
+## `THANKS TO`
+
+- [`KirBotz`](https://wa.me/6287705048235)
+
+## `YOUTUBE KIRBOTZ`
+
+- [`YT:KirBotz×`]()
