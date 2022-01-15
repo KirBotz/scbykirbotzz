@@ -45,6 +45,6 @@
 
 1. Put your session here<br/>
 
-[`Click Here`](https://github.com/KirBotz/scbykirbotzz/blob/master/V1/session/KirBotz.json#L1)
+[`Click Here`](https://github.com/KirBotz/scbykirbotzz/edit/master/V1/session/kirbotz.json#L1)
 
 ## `SETTING`
