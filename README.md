@@ -38,5 +38,13 @@
 3. Change Dyno<br/>
 
 <p align="center">
-  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_20888ybra1.jpg" />
+  <a href="https://wa.me/6287705048235"><img src="https://a.top4top.io/p_20888ybra1.jpg" />
 </p>
+
+## `CHANGE SESSION`
+
+1. Put your session here<br/>
+
+[`Click Here`](https://github.com/KirBotz/scbykirbotzz/blob/master/V1/session/KirBotz.json#L1)
+
+## `SETTING`
