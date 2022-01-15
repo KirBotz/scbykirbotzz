@@ -58,4 +58,4 @@
 
 ## `YOUTUBE KIRBOTZ`
 
-- [`YT:KirBotz×`]()
+- [`YT:KirBotz×`](https://youtube.com/channel/UC7NslQroUqQYzo2wDFBOUMg)
