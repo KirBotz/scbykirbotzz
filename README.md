@@ -48,3 +48,7 @@
 [`Click Here`](https://github.com/KirBotz/scbykirbotzz/edit/master/V1/session/kirbotz.json#L1)
 
 ## `SETTING`
+
+- Owner Number [`Here`](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L4)
+- Owner Name [`Here`](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L13)
+- Bot Name [`Here`](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L14)
