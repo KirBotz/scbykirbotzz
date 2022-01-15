@@ -1,5 +1,12 @@
 # ```Sc By KirBotz```
 
+<h1 align="center">Hai Kak<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br> Tq Yah Dah Mampir </h1>
+<p align="center">
+  <img src="https://telegra.ph/file/a5c5bcc1fcc2c6557d078.png" /></>
+</p>
+
+- Salam Aing KirBotz Jangan Lupa Subscribe Channel YT : KirBotz× Gak Subrek Gak Bakalan Work
+
 <p align='center'>
 <a href="https://github.com/KirBotz/scbykirbotzz#TERMUX">Termux</a> •
 <a href="https://github.com/KirBotz/scbykirbotzz#HEROKU">Heroku</a> •
